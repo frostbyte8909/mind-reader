@@ -16,4 +16,3 @@ or whatever number you desire.
 
 Enjoy getting your mind read!
 
-Resources used: https://stackoverflow.com/questions/3173320/text-progress-bar-in-terminal-with-block-characters
